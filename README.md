@@ -1,4 +1,4 @@
-<h1 align = "center"> Olá 👋, sou Índio Medeiros </h1>
+<h1 align = "center"> Hi 👋, I'm Índio Medeiros </h1>
 <h3 align = "center"> Developer Web Full Stack </h3>
 
 **Technical abilities**
