@@ -5,5 +5,5 @@
 * SQL, Javascript, HTML, CSS, Git, Amazon Web Services, Node.js, React.js, Github, Typescript, Unit Testing, Jest, Heroku.
 
 
-<img align = "right" src = "https://github-readme-stats.vercel.app/api?username=indiomedeiros&show_icons=true&locale=en" alt = "indiomedeiros" /> </p>
+<img align = "center" src = "https://github-readme-stats.vercel.app/api?username=indiomedeiros&show_icons=true&locale=en" alt = "indiomedeiros" /> </p>
 
