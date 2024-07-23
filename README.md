@@ -1,8 +1,8 @@
 <h1 align = "center"> Hi 👋, I'm Índio Medeiros </h1>
-<h3 align = "center"> Developer Web Full Stack </h3>
+<h3 align = "center"> software engineer </h3>
 
 **Technical abilities**
-* SQL, Javascript, HTML, CSS, Git, Amazon Web Services, Node.js, React.js, Github, Typescript, Unit Testing, Jest, Heroku.
+* JavaScript, TypeScript, Python, HTML, CSS, React.js, Node.js, SQL, MySQL, Postgre, Bancos de Dados Relacionais, AWS(EC2), API Rest, Jest, Git, GitHub e Metodologias Ágeis..
 
 <p align="center"> <img src = "https://github-readme-stats.vercel.app/api?username=indiomedeiros&show_icons=true&locale=en" alt = "indiomedeiros" /> </p>
 
