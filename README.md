@@ -33,13 +33,6 @@ Comecei como autônomo criando sites para artistas locais com HTML, CSS e JavaSc
 🧑‍💻 **Boas Práticas:**  
 &nbsp;&nbsp;&nbsp;🧼 Código Limpo | 🏗️ Arquitetura Limpa | ⚡ Metodologias Ágeis & Ativas
 
-🌱 **Aprendiz Contínuo (Life Long Learner)**  
-Sempre buscando aprender algo novo!
-
-🤝 **Trabalho em Equipe & Evolução Coletiva**  
-Acredito que desafios nos tornam mais fortes (Anti-frágil) e adoro colaborar para o crescimento dos outros.
-
----
 
 🔎 **Interesses:**  
 - Desenvolvimento Web (Front-end, Back-end, Full Stack)  
