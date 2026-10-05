@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou Desenvolvedor Web Full Stack com mais de 7 anos de experiência em desenvolvimento de aplicações web e APIs REST, atuando do frontend ao backend.<br><br>Tenho experiências práticas no desenvolvimento, manutenibilidade e evolução de sistemas em produção, utilizando React, Node.js, NestJS, bancos de dados relacionais (PostgreSQL/MySQL) e boas práticas de engenharia de software, como Clean Code, SOLID e Arquitetura Limpa.<br><br>Atuei  em projetos completos (end-to-end), integração de APIs, versionamento com Git e colaboração em times ágeis. Tenho forte background em educação em tecnologia, agregando excelente comunicação e colaboração em ambientes de equipe.</p>
+<p align="left">Sou Desenvolvedor Web Full Stack com mais de 7 anos de experiência prática em desenvolvimento de aplicações web e APIs REST, atuando do frontend ao backend.<br><br>Tenho experiências práticas no desenvolvimento, manutenibilidade e evolução de sistemas, utilizando React, Node.js, NestJS, bancos de dados relacionais (PostgreSQL/MySQL) e boas práticas de engenharia de software, como Clean Code, SOLID e Arquitetura Limpa.<br><br>Atuei  em projetos como: integração de sistemas, versionamento com Git e colaboração em times ágeis. Tenho forte background em educação em tecnologia, agregando excelente comunicação e colaboração em ambientes de equipe.</p>
 
 ###
 
